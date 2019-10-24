@@ -21,7 +21,5 @@ public class QueueDemo {
 
 		requests.put("Hallo");
 		requests.put("Welt");
-
-		outputThread.interrupt();
 	}
 }
